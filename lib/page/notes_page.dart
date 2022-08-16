@@ -91,7 +91,7 @@ class _NotesPageState extends State<NotesPage> {
           );
         },
     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-    crossAxisCount: 5,
+    crossAxisCount: 2,
     crossAxisSpacing: 5.0,
     mainAxisSpacing: 5.0,
   ),
